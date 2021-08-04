@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/greatquotes/static/css/main.0787c586.chunk.css",
+    "main.js": "/greatquotes/static/js/main.2977dc00.chunk.js",
+    "main.js.map": "/greatquotes/static/js/main.2977dc00.chunk.js.map",
+    "runtime-main.js": "/greatquotes/static/js/runtime-main.4c8b2717.js",
+    "runtime-main.js.map": "/greatquotes/static/js/runtime-main.4c8b2717.js.map",
+    "static/js/2.4db6e938.chunk.js": "/greatquotes/static/js/2.4db6e938.chunk.js",
+    "static/js/2.4db6e938.chunk.js.map": "/greatquotes/static/js/2.4db6e938.chunk.js.map",
+    "static/css/3.e07ab9df.chunk.css": "/greatquotes/static/css/3.e07ab9df.chunk.css",
+    "static/js/3.faced697.chunk.js": "/greatquotes/static/js/3.faced697.chunk.js",
+    "static/js/3.faced697.chunk.js.map": "/greatquotes/static/js/3.faced697.chunk.js.map",
+    "index.html": "/greatquotes/index.html",
+    "static/css/3.e07ab9df.chunk.css.map": "/greatquotes/static/css/3.e07ab9df.chunk.css.map",
+    "static/css/main.0787c586.chunk.css.map": "/greatquotes/static/css/main.0787c586.chunk.css.map",
+    "static/js/2.4db6e938.chunk.js.LICENSE.txt": "/greatquotes/static/js/2.4db6e938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c8b2717.js",
+    "static/js/2.4db6e938.chunk.js",
+    "static/css/main.0787c586.chunk.css",
+    "static/js/main.2977dc00.chunk.js"
+  ]
+}
